@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🎓 Graduating soon from UiO: Programming and System Architecture.
 - ⚡ Fun fact: I like making oscar worthy films during my spare time.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albaaan&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanXV&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
