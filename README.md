@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on becoming a better programmer.
 - 🎓 Graduating soon from UiO: Programming and System Architecture.
-- ⚡ Fun fact: I like making oscar worthy films during my spare time.
+- ⚡ Fun fact: I like making "oscar worthy" films during my spare time.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanXV&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
