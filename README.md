@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on projects to explore and learn more about the stuff I am into in coding.
+- 🔭 I’m currently working on projects to explore and further develop my skills.
 - 🎓 Recently graduated in 2023 from UiO: Programming and System Architecture.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanXV&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
